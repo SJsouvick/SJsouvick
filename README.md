@@ -1,3 +1,4 @@
+Hi i am Souvick Jash
 ### Hear is what i am learning on 👋
 
 Here are some ideas to get you started:
