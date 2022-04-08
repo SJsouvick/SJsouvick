@@ -2,8 +2,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...No
-- 🌱 I’m currently learning ...Html,Css,Js
+- 🔭 I’m currently working on ...currently I am studying Diploma
+- 🌱 I’m currently learning ...java,Html,Css,Js,mysql
 - 👯 I’m looking to collaborate on ...Front-end
 - 🤔 I’m looking for help with ...only You tube
 - 💬 Ask me about ...something
